@@ -1,4 +1,4 @@
-# Welcome to my car booking app 👋
+# Welcome to my  car booking expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
